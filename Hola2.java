@@ -1,4 +1,4 @@
-public class Hola {
+public class Hola2 {
     public static void main(String args[]){
 
         // Con la palabra reservada final es como creamos una constante
